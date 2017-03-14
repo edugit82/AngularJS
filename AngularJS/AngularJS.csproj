@@ -57,7 +57,11 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="W3Schools\Expressions.html" />
     <Content Include="W3Schools\Home.html" />
+    <Content Include="W3Schools\Numbers.html" />
+    <Content Include="W3Schools\Objects.html" />
+    <Content Include="W3Schools\Strings.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
