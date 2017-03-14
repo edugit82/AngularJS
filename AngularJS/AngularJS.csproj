@@ -57,11 +57,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="W3Schools\Expressions.html" />
-    <Content Include="W3Schools\Home.html" />
-    <Content Include="W3Schools\Numbers.html" />
-    <Content Include="W3Schools\Objects.html" />
-    <Content Include="W3Schools\Strings.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -77,6 +72,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="AngularJSOrg\" />
+    <Folder Include="Scripts\" />
+    <Folder Include="W3Schools\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
